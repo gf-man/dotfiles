@@ -1,0 +1,54 @@
+URxvt*.transparent:     false
+URxvt*.shading:         100
+URxvt*.depth:            32
+
+URxvt.scrollBar:        false
+URxvt.borderless:       true
+URxvt.saveLines:        16384
+
+URxvt*cursorUnderline:  true
+URxvt*cursorBlink:  true
+
+URxvt.font: -misc-tamsyn-medium-r-normal--12-87-100-100-c-60-iso8859-1 
+URxvt.autohint: 0
+! xft.hintstyle: hintfull
+! xft.hinting: 1
+xft.antialias: 0
+URxvt.letterSpace: 0
+
+! special
+*.foreground:   #ffffff
+*.background:   #000000
+*.cursorColor:  #ffffff
+
+! black
+*.color0:       #000000
+*.color8:       #444444
+
+! red
+*.color1:       #ff0000
+*.color9:       #ff5454
+
+! green
+*.color2:       #00ff33
+*.color10:      #54ff76
+
+! yellow
+*.color3:       #ff8c00
+*.color11:      #ffb254
+
+! blue
+*.color4:       #0000ff
+*.color12:      #5757ff
+
+! magenta
+*.color5:       #aaff00
+*.color13:      #c6ff54
+
+! cyan
+*.color6:       #00aaff
+*.color14:      #54c6ff
+
+! white
+*.color7:       #dddddd
+*.color15:      #ffffff
