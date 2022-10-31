@@ -59,7 +59,7 @@ set $color1  #ff7700
 set $inner-gaps 16
 set $outer-gaps 8
 
-set $bar-height 16
+set $bar-height 24
 set $bar-position top
 
 client.unfocused        $bg-dark $bg-dark $fg-dark
@@ -150,7 +150,8 @@ set $mod Mod4
 # is used in the bar {} block below.
 
 
-font -misc-tamsyn-medium-r-normal--12-87-100-100-c-60-iso8859-1
+# font -misc-tamsyn-medium-r-normal--12-87-100-100-c-60-iso8859-1
+font pango: DejaVuSansMono Nerd Font 10
 
 
 # This font is widely installed, provides lots of unicode glyphs, right-to-left

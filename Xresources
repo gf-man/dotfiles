@@ -9,7 +9,9 @@ URxvt.saveLines:        16384
 URxvt*cursorUnderline:  true
 URxvt*cursorBlink:  true
 
-URxvt.font: -misc-tamsyn-medium-r-normal--12-87-100-100-c-60-iso8859-1 
+! URxvt.font: -misc-tamsyn-medium-r-normal--12-87-100-100-c-60-iso8859-1 
+URxvt.font: xft: DejaVuSansMono\ Nerd\ Font:size=10
+!URxvt.font: xft: TerminessTTF Nerd Font Mono:size=12, DejaVuSansMono Nerd Font:style=Book:size=12
 URxvt.autohint: 0
 ! xft.hintstyle: hintfull
 ! xft.hinting: 1
