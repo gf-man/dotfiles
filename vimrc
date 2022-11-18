@@ -217,6 +217,7 @@ let g:airline_powerline_fonts = 1
 
 " ale settings
 let g:airline#extensions#ale#enabled = 1
+let g:ale_echo_msg_format = '%linter% says %s'
 let g:ale_lint_delay = 1000
 
 " vim-markdown-preview
