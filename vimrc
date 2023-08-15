@@ -219,6 +219,7 @@ let g:airline_powerline_fonts = 1
 let g:airline#extensions#ale#enabled = 1
 let g:ale_echo_msg_format = '%linter% says %s'
 let g:ale_lint_delay = 1000
+let g:ale_virtualtext_cursor = 'disabled'
 
 " vim-markdown-preview
 " set to 1, nvim will open the preview window after entering the markdown buffer

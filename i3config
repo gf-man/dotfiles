@@ -107,7 +107,7 @@ set $mod Mod4
 
 
 # font -misc-tamsyn-medium-r-normal--12-87-100-100-c-60-iso8859-1
-font pango: DejaVuSansMono Nerd Font 10
+font pango: DejaVuSansMNerdFontMono 10
 
 
 # Use Mouse+$mod to drag floating windows to their wanted position
