@@ -1,0 +1,7 @@
+# keymap.toml
+
+[[mgr.prepend_keymap]]
+on = "q"
+for = "unix"
+run = 'shell "$SHELL" --block'
+desc = "Open $SHELL here"
